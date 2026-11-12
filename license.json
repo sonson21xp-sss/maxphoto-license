@@ -5,8 +5,30 @@
   ],
   "licenses": [
     {
-      "key": "Q26T-H4HP-P1YX-4E6X",
+      "key": "MP0V-8N4E-RFRK-82F1",
       "status": "active",
+      "name": "SƠN",
+      "phone": "1111",
+      "devices": [
+        "M1JPNJ3VDYXA98SE"
+      ],
+      "maxDevices": 1,
+      "expires": ""
+    },
+    {
+      "key": "G9P5-CVBW-WQ7J-4C58",
+      "status": "banned",
+      "name": "SƠN",
+      "phone": "1111",
+      "devices": [
+        "M1JPNJ3VDYXA98SE"
+      ],
+      "maxDevices": 1,
+      "expires": ""
+    },
+    {
+      "key": "Q26T-H4HP-P1YX-4E6X",
+      "status": "banned",
       "name": "SƠN",
       "phone": "1111",
       "devices": [
