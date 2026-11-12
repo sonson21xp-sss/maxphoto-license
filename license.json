@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "ZPAV-G8KR-D4N4-QNDV",
+      "status": "active",
+      "name": "SƠN",
+      "phone": "1111",
+      "devices": [
+        "M1JPNJ3VDYXA98SE"
+      ],
+      "maxDevices": 1,
+      "trial_days": 1,
+      "expires": ""
+    },
+    {
       "key": "CMHG-FBJH-ME7Y-ESEM",
       "status": "active",
       "name": "",
@@ -16,7 +28,7 @@
     },
     {
       "key": "60DV-12J5-9TPJ-89ZP",
-      "status": "active",
+      "status": "banned",
       "name": "SƠN",
       "phone": "1111",
       "devices": [
