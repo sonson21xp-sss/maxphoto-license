@@ -409,11 +409,11 @@ function importReq(){
 // ⚠ SECRET phải GIỐNG chuỗi gốc trong HwidLicense.cs của app.
 const SECRET='MAXPHOTO-2025-doi-chuoi-nay-thanh-bi-mat-cua-rieng-ban-9f3A7bQ';
 function canon(s){return (s||'').toUpperCase().replace(/[^0-9A-Z]/g,'')}
-async function sha(str){return new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(str)))}
+async function sha256(str){return new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(str)))}
 function b32(bytes,take){let s='',bits=0,val=0;const n=Math.min(take,bytes.length);for(let i=0;i<n;i++){val=(val<<8)|bytes[i];bits+=8;while(bits>=5){bits-=5;s+=AL[(val>>bits)&31]}}if(bits>0)s+=AL[(val<<(5-bits))&31];return s}
 function grp4(s){return s.replace(/(.{4})(?=.)/g,'$1-')}
-async function revokeKeyFor(hwid,key){return grp4(b32(await sha(SECRET+'|RK|'+canon(hwid)+'|'+canon(key)),10))}
-async function confirmNum(hwid,key,rk){const h=await sha(SECRET+'|CF|'+canon(hwid)+'|'+canon(key)+'|'+canon(rk));const n=((h[0]<<24)|(h[1]<<16)|(h[2]<<8)|h[3])>>>0;return String(n%100000000).padStart(8,'0')}
+async function revokeKeyFor(hwid,key){return grp4(b32(await sha256(SECRET+'|RK|'+canon(hwid)+'|'+canon(key)),10))}
+async function confirmNum(hwid,key,rk){const h=await sha256(SECRET+'|CF|'+canon(hwid)+'|'+canon(key)+'|'+canon(rk));const n=((h[0]<<24)|(h[1]<<16)|(h[2]<<8)|h[3])>>>0;return String(n%100000000).padStart(8,'0')}
 let revTargetKey='';
 async function genRevoke(){
   let s=$('revIn').value.trim();if(!s){toast('Dán mã hủy.',1);return}
