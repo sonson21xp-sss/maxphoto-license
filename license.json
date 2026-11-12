@@ -1,6 +1,8 @@
 {
   "app": "MAXPHOTO",
-  "banned_devices": [],
+  "banned_devices": [
+    "60DV-12J5-9TPJ-89ZP"
+  ],
   "licenses": [
     {
       "key": "CMHG-FBJH-ME7Y-ESEM",
