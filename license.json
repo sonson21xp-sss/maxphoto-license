@@ -3,6 +3,16 @@
   "banned_devices": [],
   "licenses": [
     {
+      "key": "CMHG-FBJH-ME7Y-ESEM",
+      "status": "active",
+      "name": "",
+      "phone": "",
+      "devices": [],
+      "maxDevices": 1,
+      "trial_days": 1,
+      "expires": ""
+    },
+    {
       "key": "60DV-12J5-9TPJ-89ZP",
       "status": "active",
       "name": "SƠN",
