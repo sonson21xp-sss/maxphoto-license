@@ -3,6 +3,18 @@
   "banned_devices": [
     "60DV-12J5-9TPJ-89ZP"
   ],
-  "licenses": [],
+  "licenses": [
+    {
+      "key": "JH92-EBBQ-6WHZ-AZNM",
+      "status": "active",
+      "name": "ss",
+      "phone": "ss",
+      "devices": [
+        "M1JPNJ3VDYXA98SE"
+      ],
+      "maxDevices": 1,
+      "expires": ""
+    }
+  ],
   "updated": "2026-11-12"
 }
