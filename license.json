@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "JNWF-G256-3RCR-V975",
+      "status": "active",
+      "name": "hieu",
+      "phone": "0888117021",
+      "devices": [
+        "3YYG7MM4C4DJH2HJ"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
       "key": "YRS8-B47Y-D1N4-GNWY",
       "status": "active",
       "name": "Phạm Đinh Đan",
