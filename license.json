@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "XHW9-J0C5-4WS9-Z7EJ",
+      "status": "active",
+      "name": "Kim Mạnh",
+      "phone": "0382095868",
+      "devices": [
+        "C8EJBW0TS2Z99QKG"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
       "key": "79CQ-9FTR-H1EH-W1E8",
       "status": "active",
       "name": "",
