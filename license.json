@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "1MA8-QPDN-M4PE-R3SJ",
+      "status": "active",
+      "name": "quốc tường",
+      "phone": "0868117199",
+      "devices": [
+        "YV1XHE7RXG7Y4E3B"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
       "key": "D2ZM-T93G-46F0-Q17A",
       "status": "banned",
       "name": "VJJJJJJ",
@@ -28,5 +40,5 @@
       "expires": ""
     }
   ],
-  "updated": "2026-11-12"
+  "updated": "2026-11-13"
 }
