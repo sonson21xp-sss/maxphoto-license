@@ -5,8 +5,20 @@
   ],
   "licenses": [
     {
-      "key": "JJWB-G3VD-17AF-62CV",
+      "key": "6J0P-PB9B-78F2-6Y4E",
       "status": "active",
+      "name": "Lê Quang",
+      "phone": "0876528111",
+      "devices": [
+        "687QCJSGAGC02QKJ"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
+      "key": "JJWB-G3VD-17AF-62CV",
+      "status": "banned",
       "name": "",
       "phone": "",
       "devices": [
