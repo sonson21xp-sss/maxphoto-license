@@ -29,18 +29,6 @@
       "expires": ""
     },
     {
-      "key": "RAHT-AFPA-WMM0-ZCG1",
-      "status": "banned",
-      "name": "TRAN HOA",
-      "phone": "0947708050",
-      "devices": [
-        "W1FSDVRRS4ES7A58"
-      ],
-      "maxDevices": 1,
-      "trial_hours": 3,
-      "expires": ""
-    },
-    {
       "key": "F2DS-GCEA-4ACN-M7BD",
       "status": "active",
       "name": "bach",
