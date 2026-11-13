@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "ZG4D-23XB-NDR3-3MGY",
+      "status": "active",
+      "name": "bach",
+      "phone": "0383552888",
+      "devices": [
+        "6CG6XR5052T2SPME"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
       "key": "Q8R2-PGXH-BTA9-1VR2",
       "status": "active",
       "name": "sơn",
