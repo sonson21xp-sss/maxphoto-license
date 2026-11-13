@@ -5,6 +5,17 @@
   ],
   "licenses": [
     {
+      "key": "4R0R-3ZPZ-8Z97-MQDW",
+      "status": "active",
+      "name": "Phạm Đinh Đan",
+      "phone": "0903546711",
+      "devices": [
+        "44Q13C6QRSZD7K4M"
+      ],
+      "maxDevices": 1,
+      "expires": ""
+    },
+    {
       "key": "JNWF-G256-3RCR-V975",
       "status": "active",
       "name": "hieu",
