@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "YRS8-B47Y-D1N4-GNWY",
+      "status": "active",
+      "name": "Phạm Đinh Đan",
+      "phone": "0903546711",
+      "devices": [
+        "44Q13C6QRSZD7K4M"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
       "key": "1MA8-QPDN-M4PE-R3SJ",
       "status": "active",
       "name": "quốc tường",
