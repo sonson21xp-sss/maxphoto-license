@@ -17,32 +17,8 @@
       "expires": ""
     },
     {
-      "key": "SGWG-J2GN-VMAW-0FJ7",
-      "status": "banned",
-      "name": "TRAN HOA",
-      "phone": "0947708050",
-      "devices": [
-        "W1FSDVRRS4ES7A58"
-      ],
-      "maxDevices": 1,
-      "trial_hours": 3,
-      "expires": ""
-    },
-    {
       "key": "F2DS-GCEA-4ACN-M7BD",
       "status": "active",
-      "name": "bach",
-      "phone": "0383552888",
-      "devices": [
-        "6CG6XR5052T2SPME"
-      ],
-      "maxDevices": 1,
-      "trial_hours": 3,
-      "expires": ""
-    },
-    {
-      "key": "AY9D-MY70-4H3A-9APT",
-      "status": "banned",
       "name": "bach",
       "phone": "0383552888",
       "devices": [
