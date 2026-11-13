@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "5HTG-W0BF-4Q3M-PS7N",
+      "status": "active",
+      "name": "sơn",
+      "phone": "0392213066",
+      "devices": [
+        "ETZRWF33VEFNH4XP"
+      ],
+      "maxDevices": 1,
+      "trial_days": 2,
+      "expires": ""
+    },
+    {
       "key": "4R0R-3ZPZ-8Z97-MQDW",
       "status": "active",
       "name": "Phạm Đinh Đan",
