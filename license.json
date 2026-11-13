@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "JJWB-G3VD-17AF-62CV",
+      "status": "active",
+      "name": "",
+      "phone": "",
+      "devices": [
+        "687QCJSGAGC02QKJ"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
       "key": "XHW9-J0C5-4WS9-Z7EJ",
       "status": "active",
       "name": "Kim Mạnh",
