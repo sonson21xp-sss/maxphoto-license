@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "39P1-BAQA-H8EH-7Q1T",
+      "status": "active",
+      "name": "Ân",
+      "phone": "0398712100",
+      "devices": [
+        "KWF7WKMAMCG3F059"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 8,
+      "expires": ""
+    },
+    {
       "key": "5RWH-YNF2-A2FK-S1MA",
       "status": "active",
       "name": "Kim Mạnh",
