@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "TMRW-MXH9-D5QG-0H4J",
+      "status": "active",
+      "name": "Hung",
+      "phone": "0981960970",
+      "devices": [
+        "ET1328RJZRBTAVNK"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 4,
+      "expires": ""
+    },
+    {
       "key": "8BRY-S6QN-7DWM-8Z14",
       "status": "active",
       "name": "Kim Mạnh",
