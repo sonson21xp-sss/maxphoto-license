@@ -5,8 +5,20 @@
   ],
   "licenses": [
     {
-      "key": "D9NN-XSTN-D9TF-25W0",
+      "key": "HJ2V-X1P8-0XXX-91CV",
       "status": "active",
+      "name": "Nguyễn Duy Hưng",
+      "phone": "0337008984",
+      "devices": [
+        "YECKZPH5MKR15QKY"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
+      "key": "D9NN-XSTN-D9TF-25W0",
+      "status": "banned",
       "name": "",
       "phone": "",
       "devices": [
