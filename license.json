@@ -5,6 +5,17 @@
   ],
   "licenses": [
     {
+      "key": "5RWH-YNF2-A2FK-S1MA",
+      "status": "active",
+      "name": "Kim Mạnh",
+      "phone": "0382095868",
+      "devices": [
+        "C8EJBW0TS2Z99QKG"
+      ],
+      "maxDevices": 1,
+      "expires": ""
+    },
+    {
       "key": "HJ2V-X1P8-0XXX-91CV",
       "status": "active",
       "name": "Nguyễn Duy Hưng",
@@ -42,7 +53,7 @@
     },
     {
       "key": "8BRY-S6QN-7DWM-8Z14",
-      "status": "active",
+      "status": "banned",
       "name": "Kim Mạnh",
       "phone": "0382095868",
       "devices": [
