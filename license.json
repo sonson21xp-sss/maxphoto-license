@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "D9NN-XSTN-D9TF-25W0",
+      "status": "active",
+      "name": "",
+      "phone": "",
+      "devices": [
+        "YECKZPH5MKR15QKY"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
       "key": "TMRW-MXH9-D5QG-0H4J",
       "status": "active",
       "name": "Hung",
