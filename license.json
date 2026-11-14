@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "8BRY-S6QN-7DWM-8Z14",
+      "status": "active",
+      "name": "Kim Mạnh",
+      "phone": "0382095868",
+      "devices": [
+        "C8EJBW0TS2Z99QKG"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 4,
+      "expires": ""
+    },
+    {
       "key": "6J0P-PB9B-78F2-6Y4E",
       "status": "active",
       "name": "Lê Quang",
@@ -18,7 +30,7 @@
     },
     {
       "key": "XHW9-J0C5-4WS9-Z7EJ",
-      "status": "active",
+      "status": "banned",
       "name": "Kim Mạnh",
       "phone": "0382095868",
       "devices": [
@@ -123,5 +135,5 @@
       "expires": ""
     }
   ],
-  "updated": "2026-11-13"
+  "updated": "2026-11-14"
 }
