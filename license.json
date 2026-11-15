@@ -5,8 +5,20 @@
   ],
   "licenses": [
     {
-      "key": "39P1-BAQA-H8EH-7Q1T",
+      "key": "CXNP-2Y9E-A99S-030A",
       "status": "active",
+      "name": "Ân",
+      "phone": "0398712100",
+      "devices": [
+        "KWF7WKMAMCG3F059"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
+      "key": "39P1-BAQA-H8EH-7Q1T",
+      "status": "banned",
       "name": "Ân",
       "phone": "0398712100",
       "devices": [
@@ -194,5 +206,5 @@
       "expires": ""
     }
   ],
-  "updated": "2026-11-14"
+  "updated": "2026-11-15"
 }
