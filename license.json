@@ -5,6 +5,17 @@
   ],
   "licenses": [
     {
+      "key": "XNPA-CA7Z-SPS6-J6PT",
+      "status": "active",
+      "name": "Sơn",
+      "phone": "0392213066",
+      "devices": [
+        "ETZRWF33VEFNH4XP"
+      ],
+      "maxDevices": 1,
+      "expires": ""
+    },
+    {
       "key": "CXNP-2Y9E-A99S-030A",
       "status": "active",
       "name": "Ân",
@@ -137,7 +148,7 @@
     },
     {
       "key": "Q8R2-PGXH-BTA9-1VR2",
-      "status": "active",
+      "status": "banned",
       "name": "sơn",
       "phone": "0392213066",
       "devices": [
