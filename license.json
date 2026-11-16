@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "18T9-150T-W3SR-5AAC",
+      "status": "active",
+      "name": "",
+      "phone": "",
+      "devices": [
+        "NEQQN5JKP3C85Z97"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 4,
+      "expires": ""
+    },
+    {
       "key": "AQC9-5JQJ-H5XS-9KEY",
       "status": "active",
       "name": "",
