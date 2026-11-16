@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "AQC9-5JQJ-H5XS-9KEY",
+      "status": "active",
+      "name": "",
+      "phone": "",
+      "devices": [
+        "KBVZ96ER936RN74Y"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 5,
+      "expires": ""
+    },
+    {
       "key": "XNPA-CA7Z-SPS6-J6PT",
       "status": "active",
       "name": "Sơn",
@@ -217,5 +229,5 @@
       "expires": ""
     }
   ],
-  "updated": "2026-11-15"
+  "updated": "2026-11-16"
 }
