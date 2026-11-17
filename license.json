@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "XJHH-ACSJ-8ASN-EC1B",
+      "status": "active",
+      "name": "",
+      "phone": "",
+      "devices": [
+        "BSYW9G852ZFJ7H2N"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 1,
+      "expires": ""
+    },
+    {
       "key": "18T9-150T-W3SR-5AAC",
       "status": "active",
       "name": "",
@@ -241,5 +253,5 @@
       "expires": ""
     }
   ],
-  "updated": "2026-11-16"
+  "updated": "2026-11-17"
 }
