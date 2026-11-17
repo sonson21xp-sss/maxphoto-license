@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "BK24-AKWR-0NFC-PDH3",
+      "status": "active",
+      "name": "Teddiez",
+      "phone": "0888116765",
+      "devices": [
+        "MYWPZRMT2YN0WY7S"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
       "key": "XJHH-ACSJ-8ASN-EC1B",
       "status": "active",
       "name": "",
