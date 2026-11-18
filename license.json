@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "1WYX-DVH7-HQ87-F2G2",
+      "status": "active",
+      "name": "",
+      "phone": "",
+      "devices": [
+        "WFWDDG665XWZ3R8T"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
       "key": "BK24-AKWR-0NFC-PDH3",
       "status": "active",
       "name": "Teddiez",
@@ -265,5 +277,5 @@
       "expires": ""
     }
   ],
-  "updated": "2026-11-17"
+  "updated": "2026-11-18"
 }
