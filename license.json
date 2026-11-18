@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "MKSV-JQAA-162F-FRHC",
+      "status": "active",
+      "name": "Kim Mạnh",
+      "phone": "0393338821",
+      "devices": [
+        "11CMPY4NWJPKK83K"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
       "key": "1WYX-DVH7-HQ87-F2G2",
       "status": "active",
       "name": "",
