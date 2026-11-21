@@ -5,6 +5,18 @@
   ],
   "licenses": [
     {
+      "key": "R5ZC-7JGR-3WWG-MS0R",
+      "status": "active",
+      "name": "trung",
+      "phone": "0356147605",
+      "devices": [
+        "8EG8N8BD5YMNBBR3"
+      ],
+      "maxDevices": 1,
+      "trial_hours": 3,
+      "expires": ""
+    },
+    {
       "key": "H80W-XBC3-8CF4-EAJT",
       "status": "active",
       "name": "",
@@ -300,5 +312,5 @@
       "expires": ""
     }
   ],
-  "updated": "2026-11-18"
+  "updated": "2026-11-21"
 }
